@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"./errors"
 	"github.com/mercadolibre/golang-restclient/rest"
+	"github.com/skgc45/bookstore_oauth-go/errors"
 )
 
 const (
